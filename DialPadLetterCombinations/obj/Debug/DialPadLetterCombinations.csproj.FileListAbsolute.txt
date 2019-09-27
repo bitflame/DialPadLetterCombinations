@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\DialPadLetterCombinations\DialPadLetterCombinations\obj\Debug\DialPadLetterCombinations.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\DialPadLetterCombinations\DialPadLetterCombinations\obj\Debug\DialPadLetterCombinations.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\DialPadLetterCombinations\DialPadLetterCombinations\bin\Debug\DialPadLetterCombinations.exe.config
+C:\Users\usr\source\repos\DialPadLetterCombinations\DialPadLetterCombinations\bin\Debug\DialPadLetterCombinations.exe
+C:\Users\usr\source\repos\DialPadLetterCombinations\DialPadLetterCombinations\bin\Debug\DialPadLetterCombinations.pdb
+C:\Users\usr\source\repos\DialPadLetterCombinations\DialPadLetterCombinations\obj\Debug\DialPadLetterCombinations.exe
+C:\Users\usr\source\repos\DialPadLetterCombinations\DialPadLetterCombinations\obj\Debug\DialPadLetterCombinations.pdb
